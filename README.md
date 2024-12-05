@@ -28,7 +28,7 @@
 ---
 
 ## 📈 GitHub 통계
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroJoon2&layout=compact&theme=light)](https://github.com/ZeroJoon2/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroJoon2&layout=compact&theme=dark)](https://github.com/ZeroJoon2/github-readme-stats)
 
 ---
 
